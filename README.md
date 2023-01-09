@@ -1,5 +1,5 @@
 #Cat_C <br/>
-Cat with all flags, outputs same as MacOS cat
+  Cat with all flags, outputs same as MacOS cat
 
 #For tests
 1. gcc -o s21_cat.c s21_cat
@@ -9,7 +9,7 @@ Cat with all flags, outputs same as MacOS cat
 
 #Usage
 1) gcc -o s21_cat.c cat
-2) /cat [-flags] [fileName]
+2) ./cat [-flags] [fileName]
 
 #Manual <br/>
-man cat
+  man cat
